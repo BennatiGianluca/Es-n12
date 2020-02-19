@@ -8,7 +8,7 @@ namespace Ordinamento
         {
             int x, y;
             int temp;
-            for (x = 0; x<array.Length; x++)
+            for (x= 0; x<array.Length; x++)
             {
                 for (y = 0; y < array.Length; y++)
                 {
