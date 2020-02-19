@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Es n12 consoleapp", "Es n12 consoleapp\Es n12 consoleapp.csproj", "{0CD3AEB3-1B5A-4895-B0F7-7D9949863299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{D2B02CDB-BD50-4A6B-A15D-E22EEE1520D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CD3AEB3-1B5A-4895-B0F7-7D9949863299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD3AEB3-1B5A-4895-B0F7-7D9949863299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD3AEB3-1B5A-4895-B0F7-7D9949863299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD3AEB3-1B5A-4895-B0F7-7D9949863299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B02CDB-BD50-4A6B-A15D-E22EEE1520D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B02CDB-BD50-4A6B-A15D-E22EEE1520D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B02CDB-BD50-4A6B-A15D-E22EEE1520D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B02CDB-BD50-4A6B-A15D-E22EEE1520D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58C43E6E-576B-4668-8D47-477494EEE26A}
+	EndGlobalSection
+EndGlobal
